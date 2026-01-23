@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+}
+
+.div1 {
+  background-color: #A2D2FF;
+  height: 200px;
+  width: 200px;
+  border: 10px solid black;
+  padding: 20px;
+}
+
+.div2 {
+  background-color: red;
+  height: 200px;
+  width: 200px;
+  border: 20px solid black;
+
+}
+
+.div3 {
+  background-color: ye;
+  height: 200px;
+  width: 200px;
+  border: 10px solid black;
+
+}
+
+h1 {
+  margin-top: 0;
+
+}
